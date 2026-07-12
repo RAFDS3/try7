@@ -1,0 +1,11 @@
+my-website/
+├── index.html
+├── about.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+└── .github/
+    └── workflows/
+        └── deploy.yml
